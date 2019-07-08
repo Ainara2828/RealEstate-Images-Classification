@@ -1,4 +1,4 @@
-# House-Apart--CNN
+# House / Apart / Indoor Classification
 
 ## Presentation
 
@@ -13,7 +13,7 @@ Call "classifHouseApart" function :
 Several cases :
 * No outdoor images : print "no outdoor images" and gives you 2 empty lists
 
-Displays also the predictions results and the pictures
+Displays also the predictions results and their pictures
 
 ## Command
 
@@ -23,4 +23,4 @@ apart,house = classifHouseApart(listImagesUrls)
 
 ## Example
 
-![alt text](https://github.com/Ainara2828/House-Apart--CNN/blob/master/example.png)
+![alt text](https://github.com/Ainara2828/House-Apart--CNN/blob/master/example.png=100x20)
