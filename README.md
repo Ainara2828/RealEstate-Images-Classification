@@ -11,7 +11,7 @@ Call "classifHouseApart" function :
 * Output : 2 lists of images urls : apart ones and house ones
 
 Several cases :
-⋅⋅* No outdoor images : print "no outdoor images" and gives you 2 empty lists
+* No outdoor images : print "no outdoor images" and gives you 2 empty lists
 
 Displays also the predictions results and the pictures
 
