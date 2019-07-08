@@ -1,10 +1,10 @@
 # House-Apart--CNN
 
-##Presentation
+## Presentation
 
 Tool to recognize real estate images : distinguish houses, aparts and indoor/trash images
 
-##Usage
+## Usage
 
 Call "classifHouseApart" function :
 ⋅⋅* Input : list of images urls
@@ -15,11 +15,11 @@ Several cases :
 
 Displays also the predictions results and the pictures
 
-##Command
+## Command
 
 ```python
 apart,house = classifHouseApart(listImagesUrls)
 ```
 
-##Example
+## Example
 
