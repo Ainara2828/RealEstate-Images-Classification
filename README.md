@@ -23,4 +23,4 @@ apart,house = classifHouseApart(listImagesUrls)
 
 ## Example
 
-![alt text](https://github.com/Ainara2828/House-Apart--CNN/blob/master/example.png =100x20)
+<img src="https://github.com/Ainara2828/House-Apart--CNN/blob/master/example.png" alt="drawing" width="200"/>
