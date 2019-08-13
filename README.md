@@ -35,7 +35,6 @@ apart,house = classifHouseApart(listImagesUrls)
   * "indoor_outdoor_model.h5"
   * "house_apart_model.h5"
   
- [GoogleDrive/Models.zip](https://drive.google.com/file/d/1oLQITDP4s-TjseQkw0VD7Qvcl2h7Zhoz/view?usp=sharing) 
 
 ## Result example
 
